@@ -17,5 +17,6 @@ The next vizualization will be a bubble chart displaying the same results as wha
 
 <img width="1138" alt="Screenshot 2024-03-11 at 6 04 30 PM" src="https://github.com/caelwillis/belly-button-challenge/assets/146779765/35aa53a5-3489-4572-b857-eb0f18b7215e">
 
-
 We are then creating a box which will display the metadata key-value pairs for the selected sample ID. We now have an interface that will greatly assist in our ability to compare and draw conclusions from the data which we have been provided.
+
+<img width="234" alt="Screenshot 2024-03-11 at 6 05 01 PM" src="https://github.com/caelwillis/belly-button-challenge/assets/146779765/d1f28588-5399-4d44-8684-ce9fb9efc257">
