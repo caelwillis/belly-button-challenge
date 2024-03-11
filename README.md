@@ -4,6 +4,7 @@
 In this assignment, we are tasked with creating an interactive dashboard which will allow us to catalogue and inspect a belly button biodiversity dataset.
 
 First we must read the JSON file containing our data. We define our source URL, and then us D3 to read the data and log it to our console. We want to allow data to be viewed according to the sample ID of the individual we are analyzing. To accomplish, a dropdown menu is created from a list appended with all sample ids in our dataset.
+
 <img width="194" alt="Screenshot 2024-03-11 at 6 02 49 PM" src="https://github.com/caelwillis/belly-button-challenge/assets/146779765/68c5dadb-75c2-4180-86f7-252649bffd01">
 
 
