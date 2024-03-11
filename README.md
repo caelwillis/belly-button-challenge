@@ -15,4 +15,7 @@ Our first vizualisation of this data will be a horizontal bar chart displaying t
 
 The next vizualization will be a bubble chart displaying the same results as what is shown in our bar chart. This will also display initial results showing information for the first sample ID in our dataset, and will display results corresponding to the individual who's sample ID is selected from the dropdown menu.
 
+<img width="1138" alt="Screenshot 2024-03-11 at 6 04 30 PM" src="https://github.com/caelwillis/belly-button-challenge/assets/146779765/35aa53a5-3489-4572-b857-eb0f18b7215e">
+
+
 We are then creating a box which will display the metadata key-value pairs for the selected sample ID. We now have an interface that will greatly assist in our ability to compare and draw conclusions from the data which we have been provided.
