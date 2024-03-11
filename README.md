@@ -13,7 +13,7 @@ Our first vizualisation of this data will be a horizontal bar chart displaying t
 <img width="438" alt="Screenshot 2024-03-11 at 6 04 00 PM" src="https://github.com/caelwillis/belly-button-challenge/assets/146779765/78aaab96-a426-4357-8d46-1100109e2816">
 
 
-The next vizualization will be a bubble chart displaying the same results as what is shown in our bar chart. This will also display initial results showing information for the first sample ID in our dataset, and will display results corresponding to the individual who's sample ID is selected from the dropdown menu.
+The next vizualization will be a bubble chart displaying the bacteria count across the OTUs for the same sample ID from our dropdown menu. This will also display initial results showing information for the first sample ID in our dataset, and will display results corresponding to the individual who's sample ID is selected from the dropdown menu.
 
 <img width="1138" alt="Screenshot 2024-03-11 at 6 04 30 PM" src="https://github.com/caelwillis/belly-button-challenge/assets/146779765/35aa53a5-3489-4572-b857-eb0f18b7215e">
 
