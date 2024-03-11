@@ -1,4 +1,5 @@
 # belly-button-challenge
+<img width="613" alt="Screenshot 2024-03-11 at 6 01 04 PM" src="https://github.com/caelwillis/belly-button-challenge/assets/146779765/f18e77f6-5201-4114-8c9b-ca0c58076ac6">
 
 In this assignment, we are tasked with creating an interactive dashboard which will allow us to catalogue and inspect a belly button biodiversity dataset.
 
